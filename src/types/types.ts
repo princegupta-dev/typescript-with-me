@@ -39,3 +39,4 @@ function throwError(msg: string): never {
 
 // Compile and check for errors:
 // tsc types.ts
+//
